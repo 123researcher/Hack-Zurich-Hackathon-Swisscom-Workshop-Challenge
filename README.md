@@ -14,7 +14,7 @@ chatbot. Then we will use this data provided by the users to suggest the alterna
  
  if a new user will say the bot  - " I am going to Park A at 5pm"
  Bot  will fetch the data and check how many people are present at Park A at 5pm.
- Bot will give recommend similar point of interest or a different time frame
+ Bot will recommend similar points of interest or a different time frame
 
 
 # Technology used
