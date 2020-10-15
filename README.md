@@ -18,3 +18,5 @@ chatbot. Then we will use this data provided by the users to suggest the alterna
 
 
 # Technology used
+
+RASA Framework
